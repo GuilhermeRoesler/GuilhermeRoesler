@@ -1,29 +1,113 @@
+<!--Banner-->
 
-## Olá! Eu sou Guilherme Roesler! 🖐🏼
+![GuilhermeRoesler Banner Image](./banner.png)
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme_roesler/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-hubner-roesler-960267287/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeRoesler)
-
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeRoesler&show_icons=true&theme=calm_pink)
-
-## Tecnologias
-
-<div style="display: inline_block"><br/>
-    <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img align="center" alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-    <img align="center" alt="Opera" src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white"/>
-    <img align="center" alt="Duolingo" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"/>
-    <img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-    <img align="center" alt="KhanAcademy" src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white"/>
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
+
+<!--Header Name-->
+
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Guilherme!
+
+<!--Start Intro-->
+<p align="left">Sou um Full Stack Developer e Entusiasta de IA focado em entregar valor real através de código. Minha stack principal inclui Python, React.js, Node.js e Django.</p>
+
+- 🎨 **Foco em Experiência:** Crio interfaces bonitas e intuitivas, priorizando sempre uma excelente UX.
+- 🚀 **Agilidade:** Especialista na criação rápida e eficiente de soluções web escaláveis.
+- ⚡ **Adaptabilidade:** Capto novas tecnologias rapidamente e transformo informação complexa em valor real.
+- 💻 Visite meu [Portfólio](https://guilherme-roesler.fwh.is) para ver meus projetos em detalhes.
+<!--End Intro-->
+
+<!--Languages and Tools Section-->
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Deepening my knowledge in AI development and productivity.</li>
+  <li>Exploring low-level languages such as C, C++ and PHP.</li>
+  <li>Improving my skills in containerization and Docker.</li>
+</ul>
+
+<br />
+<br />
+<br />
+<br />
+
+<!--Github stats Table-->
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/GuilhermeRoesler">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=GuilhermeRoesler&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/GuilhermeRoesler">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=GuilhermeRoesler&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/GuilhermeRoesler/brModeloPlus">
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=GuilhermeRoesler&repo=brModeloPlus&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+    </td>
+  </tr>
+</table>
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeRoesler&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
+
+<!--Contact Section-->
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center" style="display: flex; justify-content: center; gap: .5rem">
+  
+<a href="mailto:guiroesler2@gmail.com" target="_blank">
+  <img src="./gmail.png" width=50 height=50 alt="guiroesler2@gmail.com" />
+</a>
+
+<a href="https://www.instagram.com/gui.roesler/" target="_blank">
+  <img src="./instagram.png" width=50 height=50 alt="gui.roesler" />
+</a>
+
+<a href="https://github.com/GuilhermeRoesler" target="_blank">
+  <img src="./github.png" width=50 height=50 alt="GuilhermeRoesler" />
+</a>
+
+<a href="linkedin.com/in/guilherme-hubner-roesler" target="_blank">
+  <img src="./linkedin.png" width=50 height=50 alt="linkedin" />
+</a>
+</div>
+<br/>
+
+<!--Footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
