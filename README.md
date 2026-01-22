@@ -12,12 +12,12 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Guilherme!
 
 <!--Start Intro-->
-<p align="left">Sou um Full Stack Developer e Entusiasta de IA focado em entregar valor real através de código. Minha stack principal inclui Python, React.js, Node.js e Django.</p>
+<p align="left">I'm a Full Stack Developer and AI enthusiast focused on delivering real value through code. My core stack includes Python, React.js, Node.js, and Django.</p>
 
-- 🎨 **Foco em Experiência:** Crio interfaces bonitas e intuitivas, priorizando sempre uma excelente UX.
-- 🚀 **Agilidade:** Especialista na criação rápida e eficiente de soluções web escaláveis.
-- ⚡ **Adaptabilidade:** Capto novas tecnologias rapidamente e transformo informação complexa em valor real.
-- 💻 Visite meu [Portfólio](https://guilherme-roesler.fwh.is) para ver meus projetos em detalhes.
+- 🎨 **Focus on Experience:** I create beautiful and intuitive interfaces, always prioritizing excellent UX.
+- 🚀 **Agility:** Expertise in the rapid and efficient creation of scalable web solutions.
+- ⚡ **Adaptability:** I quickly grasp new technologies and transform complex information into real value.
+- 💻 Visit my [Portfolio](https://guilherme-roesler.fwh.is) to see my projects in detail.
 <!--End Intro-->
 
 <!--Languages and Tools Section-->
