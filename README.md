@@ -95,7 +95,7 @@
 <!--Contact Section-->
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center" style="display: flex; justify-content: center; gap: .5rem">
+<div align="center">
   
 <a href="mailto:guiroesler2@gmail.com" target="_blank">
   <img src="./gmail.png" width=50 height=50 alt="guiroesler2@gmail.com" />
